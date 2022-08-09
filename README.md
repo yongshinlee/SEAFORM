@@ -7,4 +7,4 @@ B. Time-series data extraction from NetCdf.
 C. Linear bias correction.
 D. Calculate CRPSS.
 
-This code is provisionally opened, but modification of the code is still on going.
+This code is provisionally opened, so modification of the code is still on going.

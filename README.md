@@ -5,6 +5,7 @@ Seasonal forecasts are attracting attentions since the 2000s. Unlike forecasts a
 In order to apply this technology in practice, you should assess its skill first. This code is developed to support you to manage seasonal forecasts datasets more easily and effectively. It enables you to download seasonal forecasts datasets, extract them as time-series, and analyse them with bias correction and skill assessment by using CRPSS (Continuous Ranked Probability Skill Score) method.
 
 Thus, this code is comprised of 4 parts;
+(util/images/Modules.jpg)
 
 A. Seasonal forecasts datasets download.
 

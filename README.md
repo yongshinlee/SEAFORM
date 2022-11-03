@@ -6,14 +6,8 @@ In order to apply this technology in practice, you should assess its skill first
 
 Thus, this code is comprised of 4 parts;
 
-(<img src="util/images/Modules.jpg">)
+<img src="util/images/SEAFORM_Modules.jpg" width="500" height="360">
 
-A. Seasonal forecasts datasets download.
-
-B. Time-series data extraction from NetCdf.
-
-C. Linear bias correction.
-
-D. Calculation of CRPSS.
+Let's start by downloading all the Jupyter Notebook files and folders (util, assessment)
 
 Now, this code is provisionally opened, so modification and update is still on going. If you find any errors, please send me an email.
